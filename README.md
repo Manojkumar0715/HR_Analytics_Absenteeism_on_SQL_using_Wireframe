@@ -7,6 +7,8 @@ the comprising datasets with employee records, compensation, and their tracked a
 
 Total Budget $1000USD.
 
+Live Interact with Dashboard on [Link]
+
 ## Tech stacks
   - SQL
   - Power Query Editor
@@ -28,7 +30,7 @@ Total Budget $1000USD.
     
 ### Wireframe
 
-    <img src=""
+  <img src="https://github.com/Manojkumar0715/HR_Analytics_Absenteeism_on_SQL_with_BI/blob/main/Wireframe.png"
     class="center">
 
 ## Insights
@@ -41,7 +43,10 @@ Total Budget $1000USD.
   
 ## Dashboard View
 
-  <img src=""
+  <img src="https://github.com/Manojkumar0715/HR_Analytics_Absenteeism_on_SQL_with_BI/blob/main/Main%20Dashboard.png"
+    class="center">
+
+  <img src="https://github.com/Manojkumar0715/HR_Analytics_Absenteeism_on_SQL_with_BI/blob/main/Md2.png"
     class="center">
 
     
