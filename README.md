@@ -20,4 +20,28 @@ Total Budget $1000USD.
   - Aggregate functions
   - Joins
   - Query Optimization
+
+## Requirements
+  - Calculate a Wage Increase / annual compensation for Non-Smokers
+     - Insurance Budget of $983,221 for all Non-Smokers
+  - Create a Dashboard for HR to understand Absenteeism at work based on approved Wireframe.
+    
+### Wireframe
+
+    <img src=""
+    class="center">
+
+## Insights
+
+- Total count of **Non-Smookers** are **686** and **Non-Drinkers** are **320**.
+- ﻿At **10.96**, 7 had the highest Average of Absenteeism time in hours and was Infinity higher than 0, which had the lowest Average of Absenteeism time in hours at 0.00.
+-  ﻿﻿**4680**﻿ is sum of month of absence and ﻿**4773**﻿ is sum of absenteeism time in hour.
+- ﻿Across all 13 Month of absence, Average of Absenteeism time in hours ranged from **0.00 to 10.96** and 2 accounted for **41.38%** of Sum of Son.
+- From the budget employees get **.68 cents increase per hour/ $1.414.4 per year**
+  
+## Dashboard View
+
+  <img src=""
+    class="center">
+
     
