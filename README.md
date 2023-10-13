@@ -10,6 +10,7 @@ Total Budget $1000USD.
 Live Interact with Dashboard on [Link](https://github.com/Manojkumar0715/HR_Analytics_Absenteeism_on_SQL_with_BI/blob/main/HR%20Analytics.pbix)
 
 ## Tech stacks
+  - Excel
   - SQL
   - Power Query Editor
   - PowerBI
