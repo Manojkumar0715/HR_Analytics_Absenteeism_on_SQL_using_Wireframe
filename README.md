@@ -2,7 +2,7 @@
 
 ## Overview
 
-HR Team request to Data Analysis Team to provide a list of Healthy Individuals and Low Abesenteeism for healthy bonus program and from
+HR Team request Data Analysis Team to provide a list of Healthy Individuals and Low Abesenteeism for healthy bonus program and from
 the comprising datasets with employee records, compensation, and their tracked absences.
 
 Total Budget $1000USD.
